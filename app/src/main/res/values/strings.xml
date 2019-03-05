@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="fragmentA">this is fragment a</string>
+    <string name="fragmentB">this is fragment B</string>
+    <string name="fragmentC">this is fragment C</string>
+</resources>
